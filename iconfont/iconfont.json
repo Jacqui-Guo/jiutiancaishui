@@ -1,0 +1,65 @@
+{
+  "id": "1620612",
+  "name": "jt",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "726096",
+      "name": "安全",
+      "font_class": "safety",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "2926748",
+      "name": "快速",
+      "font_class": "port-ks",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "3199059",
+      "name": "团队",
+      "font_class": "tuandui",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "3725938",
+      "name": "专业",
+      "font_class": "zhuanye",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4784761",
+      "name": "一对一",
+      "font_class": "yiduiyi",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "4861883",
+      "name": "钱",
+      "font_class": "hy",
+      "unicode": "e8c8",
+      "unicode_decimal": 59592
+    },
+    {
+      "icon_id": "8566148",
+      "name": "团队",
+      "font_class": "tuandui1",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "9639514",
+      "name": "hours",
+      "font_class": "aa",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
